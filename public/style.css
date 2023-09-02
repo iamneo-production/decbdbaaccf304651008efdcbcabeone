@@ -41,11 +41,11 @@ header{
 }
 
 .bt.X {
-  color: #f00; /* Red for Player X */
+  color: #000; /* Red for Player X */
 }
 
 .bt.O {
-  color: #00f; /* Blue for Player O */
+  color: #000; /* Blue for Player O */
 }
 
 
@@ -64,7 +64,7 @@ header{
 }
 
 .result-text {
-  color: #fff;
+  color: #000;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
   font-size: 25px;
 }
@@ -75,8 +75,8 @@ header{
 
 #reset-button {
   border: 2px solid #000;
-  color: #fff;
-  background-color: #000;
+  color: #000000;
+  background-color: #ffffff;
   width: 100px;
   height: 40px;
   font-size: 16px;
@@ -85,6 +85,6 @@ header{
 }
 
 #reset-button:hover {
-  background-color: #000000;
-  color: #00000000;
+  background-color: #ffffff;
+  color: #000;
 }
