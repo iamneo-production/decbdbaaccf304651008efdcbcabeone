@@ -10,3 +10,9 @@ body {
   }
   
 /* Enter your styling here */
+header{
+  text-align: center;
+  color: #fff;
+  text-shadow:2px 2px 4px rgba(0,0,0,0.2);
+  
+}
